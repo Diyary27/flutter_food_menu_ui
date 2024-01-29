@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_food_menu_ui/constants.dart';
-import 'package:flutter_food_menu_ui/onBoard.dart';
+import 'package:flutter_food_menu_ui/onBoard_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {

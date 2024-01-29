@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_food_menu_ui/constants.dart';
-import 'package:flutter_food_menu_ui/home.dart';
+import 'package:flutter_food_menu_ui/home_screen.dart';
 
 class OnBoardScreen extends StatefulWidget {
   const OnBoardScreen({super.key});
